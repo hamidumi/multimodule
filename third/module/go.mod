@@ -1,3 +1,3 @@
-module github.com/hamidumi/multimodule.git/third/module
+module github.com/hamidumi/multimodule/third/module
 
 go 1.20
