@@ -1,3 +1,3 @@
-module github.com/hamidumi/multimodule/second
+module second
 
 go 1.20

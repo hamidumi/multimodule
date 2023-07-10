@@ -1,3 +1,3 @@
-module github.com/hamidumi/multimodule/first
+module first
 
 go 1.20
